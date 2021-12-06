@@ -1,91 +1,4 @@
-/* -------------------------------------------
 
-Name: 		Starbelly
-Version:  1.0
-Author:		Nazar Miller (millerDigitalDesign)
-Portfolio:  https://themeforest.net/user/millerdigitaldesign/portfolio?ref=MillerDigitalDesign
-
-p.s. I am available for Freelance hire (UI design, web development). mail: miller.themes@gmail.com
-
-------------------------------------------- */
-/*--------------------------------------------
-
-1. common
-      - fonts
-      - preloader
-      - typography
-      - group title
-      - list
-      - pagination
-      - instagram
-      - keywords
-      - slider navigation
-      - breadcrumbs
-      - badge
-      - stars
-      - social icons
-      - buttons
-      - mobile menu button
-      - click effect
-      - page transitions
-      - settings
-      - animations
-      - spaces
-      - grid
-2. frame
-      - wrapper
-      - top bar
-      - navigation
-      - footer
-      - info bar
-      - minicart
-3. content
-      - banner
-      - features
-      - menu
-      - call to action
-      - popup
-      - promo
-      - reviews
-      - author
-      - contact
-      - map
-      - blog
-      - sidebar
-      - gallery
-      - filter
-      - team
-      - categories
-      - radio
-      - product
-      - tabs
-      - faq
-      - datepicker
-4. shop
-      - minicart button
-      - cart
-      - add to cart button
-      - checkout
-6. illustrations
-      - background
-      - illustration 1
-      - illustration 1 (2)
-      - illustration 1 (404)
-      - illustration 2
-      - illustration 3
-      - illustration 4
-      - illustration 5
-      - illustration 6
-      - illustration 7
-      - illustration 8
-      - illustration 9
-
---------------------------------------------*/
-/***************************
-
-font
-
-***************************/
 @import url("https://fonts.googleapis.com/css2?family=Monoton&amp;family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap");
 /***************************
 
@@ -2854,7 +2767,7 @@ illustration 1
   border-bottom-right-radius: 400px;
   border-bottom-left-radius: 400px;
   box-shadow: 0 8px 8px -9px rgba(0, 0, 0, 0.4); }
-  .sb-illustration-1 .sb-girl {
+  .sb-illustration-1 .sb-burger_banner {
     position: absolute;
     width: 100%;
     height: 100%;
