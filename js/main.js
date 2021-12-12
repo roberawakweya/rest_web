@@ -382,11 +382,11 @@ $(function() {
     var map = new mapboxgl.Map({
       container: 'map',
       style: 'mapbox://styles/stoscar/ckk6qpt2h0yi517o77x3tw34f',
-      center: [-79.394900, 43.643102],
+      center: [8.99930452571379, 38.783553481342224],
       zoom: 15
     });
     var marker = new mapboxgl.Marker()
-      .setLngLat([-79.394900, 43.643102])
+      .setLngLat([8.99930452571379, 38.783553481342224])
       .addTo(map);
   }
   $(".sb-lock").on('click', function() {
@@ -700,11 +700,11 @@ $(function() {
       var map = new mapboxgl.Map({
         container: 'map',
         style: 'mapbox://styles/stoscar/ckk6qpt2h0yi517o77x3tw34f',
-        center: [-79.394900, 43.643102],
+        center: [8.99930452571379, 38.783553481342224],
         zoom: 15
       });
       var marker = new mapboxgl.Marker()
-        .setLngLat([-79.394900, 43.643102])
+        .setLngLat([8.99930452571379, 38.783553481342224])
         .addTo(map);
     }
     $(".sb-lock").on('click', function() {
